@@ -1,0 +1,21 @@
+Task One (Individual Concept Mapping):
+- CXL file with the program we had to download
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+Task Two (Group Discussion):
+
+Group #7: Ethan Miller, Jacob Janes, Dylan Lathrum, David Wang
+
+
+1. WHEN are requirements done in an Agile method such as Scrum or XP?
+    Requirements are set initially to construct user stories from; this can change as you present to the client but the project 
+    is generally laid out early on. Changes/creation of tasks would occur after each sprint when setting up the next
+
+2. HOW is this different than traditional software lifecycle models such as Waterfall or Spiral?
+    Those are much less flexible & have heavy EARLY requirement acquisition. They'll be initially much slower and struggle with 
+    later adaptation.
+
+3. DISCUSS: given your answers to 1 and 2, do you believe the maxim of an exponential cost curve as shown in your notes?
+    If we adopt traditional software lifecycles, we're more likely to become trapped in said cost curve. The advantage with Agile
+    methods is that adaptation will help prevent catches like that since we can be more felxible.
