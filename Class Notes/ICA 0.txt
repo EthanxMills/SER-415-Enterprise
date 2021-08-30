@@ -1,0 +1,12 @@
+Task One (Individual Concept Mapping):
+- CXL file with the program we had to download
+
+Task Two (Group Discussion):
+
+Group #7: Ethan Miller, Jacob Janes, Dylan Laythrum, David
+
+1. WHEN are requirements done in an Agile method such as Scrum or XP?
+
+2. HOW is this different than traditional software lifecycle models such as Waterfall or Spiral?
+
+3. DISCUSS: given your answers to 1 and 2, do you believe the maxim of an exponential cost curve as shown in your notes?
